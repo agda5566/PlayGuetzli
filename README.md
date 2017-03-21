@@ -26,3 +26,12 @@ cmd切換到該資料夾
 
 docker的人記得要先裝pkg-config、g++、git、make！
 
+我的docker是用ubuntu 16.04
+
+# Q&A
+
+如果make碰到gflags錯誤
+
+在新版的guetzli已經被移除了
+
+重新下載應該就可以了
